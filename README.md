@@ -1,2 +1,2 @@
 # Pong
-A simple pong game made by me. (JavaScript)
+A simple pong game made by me.
